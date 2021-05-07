@@ -12,6 +12,7 @@ set noswapfile
 set incsearch
 set smartcase
 set noerrorbells
+set wildmenu
 let mapleader = " "
 " Remap split navigation to just Ctrl + hjkl
 nnoremap <C-h> <C-w>h
