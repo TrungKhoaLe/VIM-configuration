@@ -59,6 +59,7 @@ Plugin 'morhetz/gruvbox'
 Plugin 'kien/ctrlp.vim'
 Plugin 'dense-analysis/ale'
 Plugin 'nvie/vim-flake8'
+Plugin 'ap/vim-css-color'
 " add all your plugins here (note older versions of Vundle
 " used Bundle instead of Plugin)
 
