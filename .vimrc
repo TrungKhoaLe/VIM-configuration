@@ -23,6 +23,10 @@ set foldmethod=indent
 set foldlevel=99
 set laststatus=2
 
+" Show indentation lines
+set cursorcolumn
+set cursorline
+
 " Enable folding with the spacebar
 nnoremap <leader>f za
 " Remap split navigation to just Ctrl + hjkl
